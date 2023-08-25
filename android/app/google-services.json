@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061588641366",
+    "project_id": "tailored-meskha",
+    "storage_bucket": "tailored-meskha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061588641366:android:b8439c41bfb35976a07df7",
+        "android_client_info": {
+          "package_name": "com.software.Meshka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs0LPAo0usW7RG4UZ6to6jhL7FcWfPFto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
