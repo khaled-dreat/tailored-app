@@ -1,24 +1,16 @@
-# frontend
+## The application has been modified based on
+#### Modification to the application includes the following:
 
-A new Flutter project.
+A. Displaying all available courses on the platform.
 
-## Getting Started
+B. Allowing users to join a course (before joining, users won't have access to course materials).
 
-This project is a starting point for a Flutter application.
+C. Providing the capability to view course materials (in sequential order) and mark them as completed if the material is solvable.
 
-A few resources to get you started if this is your first Flutter project:
+D. Enabling users to ask questions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+E. Supporting various types of content for the course materials, including text, video, and audio.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-//omar
-### Running the project
+F. Incorporating different question types (multiple-choice, written, listening, similar to Duolingo questions) that can be mixed and matched with other questions.
 
-To run on web
-
-```
-$ flutter run -d chrome --web-browser-flag "--disable-web-security"
-```
+G. After completing each material, marking it as finished and moving on to the next material.
